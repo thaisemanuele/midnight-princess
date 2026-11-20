@@ -5,20 +5,20 @@
   "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#7ed3ffaa",
-    "selection.background": "#1e4f9199",
+    "selection.background": "#1e4f91cc",
     "editor.background": "#051224",
     "editor.foreground": "#e8f6ff",
     "editorCursor.foreground": "#7ed3ff",
     "editor.lineHighlightBackground": "#0a1d3a",
-    "editor.selectionBackground": "#1e4f9199",
+    "editor.selectionBackground": "#1e4f91cc",
     "editor.findMatchBackground": "#7ed3ff44",
-    "editorLineNumber.foreground": "#35507a",
+    "editorLineNumber.foreground": "#4a6896",
     "editorLineNumber.activeForeground": "#e8f6ff",
     "editorBracketHighlight.foreground1": "#7ed3ff",
-    "editorBracketHighlight.foreground2": "#4f8fef",
+    "editorBracketHighlight.foreground2": "#6ea8ff",
     "editorBracketHighlight.foreground3": "#a8d8f0",
     "editorBracketHighlight.foreground4": "#7ed3ff",
-    "editorBracketHighlight.foreground5": "#4f8fef",
+    "editorBracketHighlight.foreground5": "#6ea8ff",
     "editorBracketHighlight.foreground6": "#a8d8f0",
     "editorBracketMatch.background": "#1e4f9133",
     "editorBracketMatch.border": "#7ed3ffaa",
@@ -147,7 +147,9 @@
     "editor.wordHighlightBackground": "#7ed3ff1f",
     "editor.selectionHighlightBackground": "#7ed3ff1f",
     "textLink.foreground": "#7ed3ff",
-    "textLink.activeForeground": "#b3e6ff"
+    "textLink.activeForeground": "#b3e6ff",
+    "editorIndentGuide.background1": "#132a4a",
+    "editorIndentGuide.activeBackground1": "#2a4d7e"
   },
   "tokenColors": [
     {
@@ -157,7 +159,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#5f7aa0",
+        "foreground": "#6a84ad",
         "fontStyle": "italic"
       }
     },
@@ -169,7 +171,7 @@
         "keyword.operator"
       ],
       "settings": {
-        "foreground": "#4f8fef"
+        "foreground": "#6ea8ff"
       }
     },
     {
@@ -178,7 +180,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#4f8fef"
+        "foreground": "#6ea8ff"
       }
     },
     {
@@ -187,7 +189,7 @@
         "punctuation.definition.template-expression"
       ],
       "settings": {
-        "foreground": "#4f8fef"
+        "foreground": "#6ea8ff"
       }
     },
     {
@@ -197,7 +199,7 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#4f8fef"
+        "foreground": "#6ea8ff"
       }
     },
     {
@@ -238,7 +240,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#7ed3ff"
+        "foreground": "#38c6f4"
       }
     },
     {

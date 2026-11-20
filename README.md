@@ -10,11 +10,12 @@ A dark VS Code theme with midnight blues, glass-slipper light and a touch of gol
 | Sidebar and panels | `#030b17` |
 | Menus, inputs and widgets | `#0a2a59` |
 | UI accent (selection, buttons, badges) | `#1e4f91` |
-| Keywords, operators, tags | `#4f8fef` |
+| Keywords, operators, tags | `#6ea8ff` |
 | Functions, keys, attributes, types (italic) | `#a8d8f0` |
 | Text | `#e8f6ff` |
 | Soft text (UI) | `#d4e8f8` |
-| Strings, cursor, crystal highlights | `#7ed3ff` |
+| Strings | `#38c6f4` |
+| Cursor and crystal highlights | `#7ed3ff` |
 | Numbers | `#f9e6b2` |
 | Rare accents (this, regex, enum members) | `#f4c76a` |
 
