@@ -8,6 +8,8 @@ A dark VS Code theme with midnight blues, glass-slipper light and a touch of gol
 
 ## Palette
 
+![Midnight Princess palette](images/palette.png)
+
 | Role | Color |
 | --- | --- |
 | Editor background | `#051224` |
