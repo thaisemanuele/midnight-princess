@@ -22,7 +22,7 @@
     "editorBracketHighlight.foreground6": "#a8d8f0",
     "editorBracketMatch.background": "#1e4f9133",
     "editorBracketMatch.border": "#7ed3ffaa",
-    "activityBar.background": "#0a2a59",
+    "activityBar.background": "#030b17",
     "activityBar.foreground": "#7ed3ff",
     "activityBar.activeBorder": "#7ed3ff",
     "activityBarBadge.background": "#7ed3ff",
@@ -98,8 +98,8 @@
     "modernActivityBarItem.activeForeground": "#7ed3ff",
     "modernActivityBarItem.activeBackground": "#1e4f91",
     "modernActivityBarItem.hoverForeground": "#e8f6ff",
-    "modernActivityBarItem.hoverBackground": "#123a73",
-    "modernActivityBar.border": "#1e4f9166",
+    "modernActivityBarItem.hoverBackground": "#0d2348",
+    "modernActivityBar.border": "#0d2348",
     "modernEditorTab.activeBackground": "#051224",
     "modernEditorTab.activeForeground": "#e8f6ff",
     "modernEditorTab.inactiveBackground": "#030b17",
@@ -149,8 +149,7 @@
     "textLink.foreground": "#7ed3ff",
     "textLink.activeForeground": "#b3e6ff",
     "editorIndentGuide.background1": "#132a4a",
-    "editorIndentGuide.activeBackground1": "#2a4d7e",
-    "activityBar.border": "#1e4f9166"
+    "editorIndentGuide.activeBackground1": "#2a4d7e"
   },
   "tokenColors": [
     {
