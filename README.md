@@ -6,15 +6,11 @@ A dark VS Code theme with midnight blues, glass-slipper light and a touch of pin
 
 | Role | Color |
 | --- | --- |
-| Editor background | `#131a33` |
-| Sidebar and panels | `#0e1428` |
-| Text | `#d6e0f0` |
-| UI accent | `#4f7fd0` |
-| Keywords, operators, tags | `#7ea6f2` |
-| Functions, keys, attributes | `#a9cdf0` |
-| Strings, properties | `#f5b5c4` |
-| Types, numbers | `#f3e9dc` |
-| Rare accents (this, regex, enum members) | `#c3b5f0` |
+| Editor background | `#101827` |
+| UI accent, keywords, operators, tags | `#5b8fd9` |
+| Functions, keys, attributes, rare accents | `#a8d8f0` |
+| Types, numbers | `#e8e5e1` |
+| Strings, properties, active highlights | `#f0a8b8` |
 
 ## Install
 
