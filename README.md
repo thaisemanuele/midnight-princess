@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Midnight Princess" width="320">
+</p>
+
 # Midnight Princess
 
 A dark VS Code theme with midnight blues, glass-slipper light and a touch of gold.
