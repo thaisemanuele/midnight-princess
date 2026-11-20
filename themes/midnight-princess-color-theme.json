@@ -16,10 +16,10 @@
     "editorLineNumber.activeForeground": "#e8f6ff",
     "editorBracketHighlight.foreground1": "#7ed3ff",
     "editorBracketHighlight.foreground2": "#6ea8ff",
-    "editorBracketHighlight.foreground3": "#a8d8f0",
+    "editorBracketHighlight.foreground3": "#f9e6b2",
     "editorBracketHighlight.foreground4": "#7ed3ff",
     "editorBracketHighlight.foreground5": "#6ea8ff",
-    "editorBracketHighlight.foreground6": "#a8d8f0",
+    "editorBracketHighlight.foreground6": "#f9e6b2",
     "editorBracketMatch.background": "#1e4f9133",
     "editorBracketMatch.border": "#7ed3ffaa",
     "activityBar.background": "#030b17",
@@ -159,7 +159,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#6a84ad",
+        "foreground": "#7f8bc4",
         "fontStyle": "italic"
       }
     },
@@ -172,6 +172,22 @@
       ],
       "settings": {
         "foreground": "#6ea8ff"
+      }
+    },
+    {
+      "name": "Control flow and module keywords (import, export, return, if)",
+      "scope": [
+        "keyword.control",
+        "keyword.control.import",
+        "keyword.control.export",
+        "keyword.control.from",
+        "keyword.control.flow",
+        "keyword.control.conditional",
+        "keyword.control.loop"
+      ],
+      "settings": {
+        "foreground": "#6ea8ff",
+        "fontStyle": "italic"
       }
     },
     {
@@ -199,7 +215,7 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#6ea8ff"
+        "foreground": "#f9e6b2"
       }
     },
     {
@@ -253,7 +269,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#a8d8f0",
+        "foreground": "#7ed3ff",
         "fontStyle": "italic"
       }
     },
@@ -283,23 +299,23 @@
     "function": "#a8d8f0",
     "method": "#a8d8f0",
     "class": {
-      "foreground": "#a8d8f0",
+      "foreground": "#7ed3ff",
       "italic": true
     },
     "type": {
-      "foreground": "#a8d8f0",
+      "foreground": "#7ed3ff",
       "italic": true
     },
     "interface": {
-      "foreground": "#a8d8f0",
+      "foreground": "#7ed3ff",
       "italic": true
     },
     "typeParameter": {
-      "foreground": "#a8d8f0",
+      "foreground": "#7ed3ff",
       "italic": true
     },
     "enum": {
-      "foreground": "#a8d8f0",
+      "foreground": "#7ed3ff",
       "italic": true
     },
     "enumMember": {
