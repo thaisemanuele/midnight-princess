@@ -15,7 +15,7 @@ A dark VS Code theme with midnight blues, glass-slipper light and a touch of gol
 | Text | `#e8f6ff` |
 | Soft text (UI) | `#d4e8f8` |
 | Types, classes | `#7ed3ff` |
-| Numbers, rare accents, active highlights | `#f4c76a` |
+| Numbers, rare accents, cursor | `#f4c76a` |
 | Strings | `#f9e6b2` |
 
 ## Install
