@@ -13,7 +13,7 @@ A dark VS Code theme with midnight blues, glass-slipper light and a touch of pin
 | Keywords, operators, tags | `#7ea6f2` |
 | Functions, keys, attributes | `#a9cdf0` |
 | Strings, properties | `#f5b5c4` |
-| Types, numbers | `#f2d9a0` |
+| Types, numbers | `#f3e9dc` |
 | Rare accents (this, regex, enum members) | `#c3b5f0` |
 
 ## Install
