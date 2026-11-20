@@ -1,0 +1,38 @@
+{
+  "name": "midnight-princess",
+  "displayName": "Midnight Princess",
+  "description": "A dark VS Code theme with midnight blues, glass-slipper light and a touch of pink.",
+  "version": "0.0.1",
+  "publisher": "thaisemanuele",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue",
+    "midnight",
+    "pink"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaisemanuele/midnight-princess"
+  },
+  "galleryBanner": {
+    "color": "#131a33",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Princess",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-princess-color-theme.json"
+      }
+    ]
+  }
+}
