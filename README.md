@@ -7,7 +7,8 @@ A dark VS Code theme with midnight blues, glass-slipper light and a touch of gol
 | Role | Color |
 | --- | --- |
 | Editor background | `#051224` |
-| Sidebar, panels and widgets | `#0a2a59` |
+| Sidebar and panels | `#030b17` |
+| Menus, inputs and widgets | `#0a2a59` |
 | UI accent (selection, buttons, badges) | `#1e4f91` |
 | Keywords, operators, tags | `#4f8fef` |
 | Functions, keys, attributes | `#a8d8f0` |
